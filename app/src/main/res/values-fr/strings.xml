@@ -6,7 +6,7 @@
     <string name="activity_details">Informations sur l'activité</string>
     <string name="activity_state">État de l'activité</string>
     <string name="activity_start_timestamps">Horodatage du début de l'activité</string>
-    <string name="activity_stop_timestamps">Horodatage du fin< de l'activité/string>
+    <string name="activity_stop_timestamps">Horodatage du fin de l'activité/string>
     <string name="activity_status_online_idle_dnd">Statut de l'activité(en ligne,inactif,npd)</string>
     <string name="activity_button1_text">Texte du bouton d'activité1</string>
     <string name="activity_button2_text">Texte du bouton d'activité2</string>

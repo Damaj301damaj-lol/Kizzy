@@ -34,6 +34,5 @@
     <string name="enable_timestamps">Activer l'horodatage</string>'
     <string name="text_after_permission_denied">Autorisation de stockage requise pour que les fonctionnalités de configuration fonctionnent. Veuillez accorder la permission</string>
     <string name="grant_permission">Donner la permission</string>
-    </string></string></string>
-</string>
+
 </resources>

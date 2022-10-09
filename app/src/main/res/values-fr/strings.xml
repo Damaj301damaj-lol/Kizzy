@@ -2,18 +2,18 @@
     <string name="app_name">Kizzy</string>
 
     <!-- Activities -->
-    <string name="activity_name">Nom de l'activitéi</string>'
-    <string name="activity_details">Informations sur l'activité</string>'
-    <string name="activity_state">État de l'activité</string>'
-    <string name="activity_start_timestamps">Horodatage du début de l'activité</string>'
-    <string name="activity_stop_timestamps">Horodatage du fin de l'activité</string>'
-    <string name="activity_status_online_idle_dnd">Statut de l'activité(en ligne,inactif,npd)</string>'
-    <string name="activity_button1_text">Texte du bouton d'activité1</string>'
-    <string name="activity_button2_text">Texte du bouton d'activité2</string>'
+    <string name="activity_name">Nom de l'activitéi</string>
+    <string name="activity_details">Informations sur l'activité</string>
+    <string name="activity_state">État de l'activité</string>
+    <string name="activity_start_timestamps">Horodatage du début de l'activité</string>
+    <string name="activity_stop_timestamps">Horodatage du fin de l'activité</string>
+    <string name="activity_status_online_idle_dnd">Statut de l'activité(en ligne,inactif,npd)</string>
+    <string name="activity_button1_text">Texte du bouton d'activité1</string>
+    <string name="activity_button2_text">Texte du bouton d'activité2</string>
     <string name="activity_button1_url">Url du bouton 1</string>
     <string name="activity_button2_url">Url du bouton 2</string>
-    <string name="activity_large_image">Grande image de l'activité</string>'
-    <string name="activity_small_image">Petite image de l'activité</string>'
+    <string name="activity_large_image">Grande image de l'activité</string>
+    <string name="activity_small_image">Petite image de l'activité</string>
     <string name="activity_type">Type de l'activité</string>'
     <string name="load_config">Charger la configuration</string>
     <string name="save_config">Sauvegarder la configuration</string>
@@ -29,9 +29,9 @@
     <string name="github_issue_desc">Soumettre un problème pour un rapport de bug ou une demande de fonctionnalité</string>
     <string name="credits">Crédits</string>
     <string name="credits_desc">Crédits aux bibliothèques utilisées et contributeurs</string>
-    <string name="enable_artist_name">Activer le nom de l'artiste</string>'
-    <string name="show_app_icon">Afficher l'icône de l'application</string>''
-    <string name="enable_timestamps">Activer l'horodatage</string>'
+    <string name="enable_artist_name">Activer le nom de l'artiste</string>
+    <string name="show_app_icon">Afficher l'icône de l'application</string>
+    <string name="enable_timestamps">Activer l'horodatage</string>
     <string name="text_after_permission_denied">Autorisation de stockage requise pour que les fonctionnalités de configuration fonctionnent. Veuillez accorder la permission</string>
     <string name="grant_permission">Donner la permission</string>
 
